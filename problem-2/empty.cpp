@@ -1,6 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello Homework!";
+    cout << "Hello Homework!" << endl;
     return 0;
 }
